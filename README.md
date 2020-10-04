@@ -2,9 +2,11 @@
 It's  WAV player on STM32F103C8 microcontroller.
 
 Alpha version:
-  Direct port of Mercury project from AVR to STM32 without inners logic rebuild.
+
+    Direct port of Mercury project from AVR to STM32 without inners logic rebuild.
 
   Description:
+  
     Primitive wav player on STM32F103C8.
     Automaticaly reads some needed data from RIFF chain on begin of file.
     - File size;
